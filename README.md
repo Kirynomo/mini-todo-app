@@ -13,8 +13,8 @@ This project allows users to add, delete, and manage daily tasks with a clean an
 ---
 
 ## 🖥️ Demo  
-👉 [**Live Preview**](https://your-username.github.io/todo-list/)  
-*(Replace with your actual GitHub Pages link)*
+👉 [**Live Preview**](https://kirynomo.github.io/mini-todo-app/)  
+
 
 ---
 
